@@ -1,6 +1,7 @@
-Controls:\n
+Controls:
 
 w a s d: move camera
+
 mouse weel scroll: zoom
 p: center camera on player
 r: reset camera position
