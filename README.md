@@ -1,4 +1,4 @@
-Controls:
+Controls:\n
 
 w a s d: move camera
 mouse weel scroll: zoom
